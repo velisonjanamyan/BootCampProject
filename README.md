@@ -1,4 +1,4 @@
-Levon, [31.01.25 17:09]
+
 # Item Upgrade System
 
 A Java application demonstrating an item inventory with upgrade mechanics, all organized into well-separated components. You can create items of various rarities, store them in a singleton Inventory, and upgrade them according to specific rules. This README explains the project’s design, features, and how to run it.
